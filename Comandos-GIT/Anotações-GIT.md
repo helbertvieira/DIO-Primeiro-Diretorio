@@ -14,10 +14,6 @@
 
 blob <-- Tree --> Tree --> blob
 
-​                  |
-
-​              blob
-
 ##### Commits: Junta tudo - Sha1 é o hash de toda a informação
 
 Tree, parent, autor, mensagem, timestamp
